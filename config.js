@@ -21,9 +21,6 @@ const CONFIG = {
       walking: "#2ecc71",
       cycling: "#9b59b6",
       van: "#f39c12",
-      van_2022: "#e74c3c",
-      van_scpa: "#1abc9c",
-      truck_staticth: "#8e44ad", // Ungu untuk truck_staticth
       car: "#27ae60",
       // Add more profile-specific colors as needed
     },
