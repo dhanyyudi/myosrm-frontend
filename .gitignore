@@ -1,0 +1,21 @@
+# OSRM Inspector Frontend - Git Ignore
+
+# Auto-generated runtime config (created by run_osrm.sh)
+runtime-config.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
